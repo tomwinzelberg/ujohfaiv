@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baezahyua.puyu.site/sitemap.xml
